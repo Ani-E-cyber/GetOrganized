@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-size: 2.4rem;
+  font-size: 2.1rem;
   font-family: sans-serif;
   color: rgb(32, 32, 32);
 
@@ -118,7 +118,7 @@ input[type='checkbox'] {
   height: 2rem;
   width: 2rem;
   /* accent-color: #e5771f; */
-  accent-color: #0d787c;
+  accent-color: #0a5658;
 }
 
 .list li button {
